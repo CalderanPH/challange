@@ -1,0 +1,21 @@
+
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+X
+(src/main/java/br/paulocalderan/Main.java,c\a\ca9f66cde3946e61e12f6d50cda5cb2f7ec54306
+c
+3src/main/java/br/paulocalderan/resistors/Color.java,c\7\c715a4989bcf2991cc5683c82d221969c3f30bb3
+b
+2src/main/java/br/paulocalderan/resistors/Main.java,3\6\36a228ba3f49a0a55a3635ddb71d594d01a352d7
+f
+6src/main/java/br/paulocalderan/resistors/Resistor.java,2\9\29e2a5fc8ef052582ac1d3ebff4c2922a5adb7c2
+g
+7src/main/java/br/paulocalderan/resistors/Constants.java,2\4\24eec40c5f6a3a2e231be64b23b94157650d4288
+9
+	readme.md,2\7\275d783e298228506068436512433d343feb52aa
+k
+;src/main/java/br/paulocalderan/samambaia/FlorSamambaia.java,4\b\4bcab4bcb2093ca59a85a061a62625d149eb2268
+h
+8src/main/java/br/paulocalderan/samambaia/FernFlower.java,c\c\cc2ca2b07c07d7aeb241093a6b76b4879b2fe313
+_
+/src/main/java/br/paulocalderan/snail/Snail.java,2\c\2ca088819fef9ea3a7f99404185b0f41df5c5324

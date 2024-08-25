@@ -1,0 +1,10 @@
+
+g
+java:S1640"Convert this Map to an EnumMap.(œ£§Ëûÿÿÿÿ8£°ıİ˜2J$6cefda12-b6f2-4b6e-902b-7fae5a1ac06a
+m	java:S106"+Replace this use of System.out by a logger.(¶Ç›¾8¤§èİ˜2J$8c4a1da0-f7df-4ac6-9078-77300d530a49
+m	java:S106"+Replace this use of System.out by a logger.(µŠŠÕ8©§èİ˜2J$fce6f66a-7207-4970-bb8e-0c73808fce1c
+r	java:S106!"+Replace this use of System.out by a logger.(ÂØŞøÿÿÿÿ8ª§èİ˜2J$0878c3cf-6b3c-4d40-a9b6-b138e4a623a4
+m	java:S106#"+Replace this use of System.out by a logger.(Î³Ïü8†êİ˜2J$2c1db5b5-bd6c-4ee8-94ba-c5eab2bb9471
+r	java:S106'"+Replace this use of System.err by a logger.(™Ë·åøÿÿÿÿ8ª§èİ˜2J$dabbbb94-5c3c-4293-8eba-127d473d97de
+R
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8áııİ˜2
